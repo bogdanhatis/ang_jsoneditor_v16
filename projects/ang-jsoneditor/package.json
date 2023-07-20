@@ -1,0 +1,26 @@
+{
+  "name": "@bh/ang-jsoneditor_angular16",
+  "version": "16.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/bogdanhatis/ang_jsoneditor_v16",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogdanhatis/ang_jsoneditor_v16"
+  },
+  "author": "Bogdan Hatis",
+  "keywords": [
+    "angular",
+    "jsoneditor",
+    "ang-jsoneditor",
+    "ng-jsoneditor",
+    "angular"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^16",
+    "@angular/core": "^16",
+    "jsoneditor": "^9.1.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
