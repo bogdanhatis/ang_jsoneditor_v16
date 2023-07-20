@@ -1,8 +1,8 @@
 # Angular Json Editor
-This is a wrapper over what is below, for angular 16, and it's used for private purpose only.
-If you want to use, please be aware that will not be anymore PR and changes for this library, only vulnerabilities will be fixed.
+This is a wrapper over what is below, for angular 16, and it's used for private purposes only.
+If you want to use it, please be aware that will not be any other PR and changes for this library, only vulnerabilities will be fixed.
 
-For stable version please use the repor below.
+For a stable version please use the repo below.
 
 ## About this repository
 This is a fork of mariohmol's [ang-jsoneditor](https://github.com/mariohmol/ang-jsoneditor)
