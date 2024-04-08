@@ -1,5 +1,5 @@
 # Angular Json Editor
-This is a wrapper over what is below, for angular 16, and it's used for private purposes only.
+This is a wrapper over what is below, for angular 16 & 17, and it's used for private purposes only.
 If you want to use it, please be aware that will not be any other PR and changes for this library, only vulnerabilities will be fixed.
 
 For a stable version please use the repo below.
