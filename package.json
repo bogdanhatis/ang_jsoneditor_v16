@@ -1,6 +1,6 @@
 {
   "name": "bh-ang-jsoneditor-angular-v16",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "serve:demo": "cd projects/demo && ng serve",
     "build:lib": "ng build ang-jsoneditor",
